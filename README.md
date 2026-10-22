@@ -102,6 +102,7 @@
 - [OpenWeatherMap](https://openweathermap.org/api) – Weather forecasts, climate data, and sensor readings.
 - [REST Countries API](https://restcountries.com/) – Country metadata for travel, education, and geographic applications.
 - [defend.network CVE API](https://defend.network/api/) – Public API for CVE data, including CVSS, EPSS, and CISA KEV exploitation status.
+- [DC Hub API](https://dchub.cloud/api) – Data-center site selection data: grid power scores for 300+ markets, mapped power, gas and fiber assets, ISO grid feeds and electricity prices, via REST and MCP.
 - [Public APIs List](https://github.com/public-apis/public-apis) – Curated list of free APIs in multiple categories.
 
 ## Monitoring, Testing & Security Tools
